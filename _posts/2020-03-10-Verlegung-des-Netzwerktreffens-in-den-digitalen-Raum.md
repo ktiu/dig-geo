@@ -1,5 +1,5 @@
 ---
-title: Verlegung des Netzwerktreffens in den digtalen Raum
+title: Verlegung des Netzwerktreffens in den digitalen Raum
 zeit: 12.-13. März 2020
 tags: News Workshops Innsbruck
 ---
