@@ -9,11 +9,10 @@ Im März findet in Erlangen ein Workshop statt, der eine interdisziplinäre Plat
 
 Ziel ist es den Austausch zwischen eher raumtheoretischen Arbeiten aus der Kultur- und Sozialgeographie und den stärker geoinformatisch orientierten Arbeiten aus der Digital Humanities zu fördern.
 
-
-Themenfelder aus dem Call for Papers (der ausführliche Call for Papers findet sich hier: CfP Geography Meets Digital Humanities)
+Themenfelder aus dem Call for Papers (der ausführliche Call for Papers findet sich hier: [/docs/cfp_Geography_DigitalHumanities_20210312.pdf](CfP Geography Meets Digital Humanities)
 
 - Georepräsentationen des Visuellen, Materiellen oder Performativen
--  Geokollokations- und andere lexikometrische Analysen
+- Geokollokations- und andere lexikometrische Analysen
 - räumliche vs. semantische Topologien
 - Repräsentationen von Raumwissen, bspw. Graph Knowledge
 - ortsbezogene Analysen bspw. von Sozialen Netzwerken
