@@ -18,5 +18,5 @@ Themenfelder aus dem Call for Papers (der ausführliche Call for Papers findet s
 - ortsbezogene Analysen bspw. von Sozialen Netzwerken
 - Place based GIS und Platial GIS
 
-Um etwa fünfseitige Shortpaper bitten wir bis zum 18. Dezember 2020 an [finn.dammann@fau.de](mailto:finn.dammann@fau.de) und [dominik.kremer@fau.de](dominik.kremer@fau.de). Bei entsprechender Qualität der Einreichungen ist die Veröffentlichung in einem Special Issue erklärtes Ziel.  
+Um etwa fünfseitige Shortpaper bitten wir bis zum 18. Dezember 2020 an [finn.dammann@fau.de und dominik.kremer@fau.de](mailto:finn.dammann@fau.de,dominik.kremer@fau.de). Bei entsprechender Qualität der Einreichungen ist die Veröffentlichung in einem Special Issue erklärtes Ziel.  
 
