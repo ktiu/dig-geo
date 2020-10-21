@@ -4,8 +4,8 @@ zeit: 12.-13. März 2020
 tags: News Workshops Innsbruck
 ---
 
-Leider führen jüngste COVID-19-Maßnahmen der Universität Innsbruck sowie starke Empfehlungen der zuständigen Ansprechpartner des Landes Tirol und der Arbeitsmedizin Innsbruck dazu, dass das Netzwerktreffen in Innsbruck nicht vor Ort stattfinden kann. 
-Da wir uns als Digitale Geographen von dieser, den physischen Ram betreffenden Maßnahme nicht einschränken lassen wollen, haben wir uns eine Alternativlösung für den digitalen Raum (Kleingruppen in Skype) überlegt. Das Gute an diesem Verfahren ist: Auch Kurzentschlossene, die bisher nicht nach Innsbruck reisen konnten, haben so noch die Möglichkeit teilzunehmen.
+Leider führen jüngste COVID-19-Maßnahmen der Universität Innsbruck sowie starke Empfehlungen der zuständigen Ansprechpartner des Landes Tirol und der Arbeitsmedizin Innsbruck dazu, dass das Netzwerktreffen in Innsbruck nicht vor Ort stattfinden kann.
+Da wir uns als Forschende zu Digitalen Geographien von dieser, den physischen Ram betreffenden Maßnahme nicht einschränken lassen wollen, haben wir uns eine Alternativlösung für den digitalen Raum (Kleingruppen in Skype) überlegt. Das Gute an diesem Verfahren ist: Auch Kurzentschlossene, die bisher nicht nach Innsbruck reisen konnten, haben so noch die Möglichkeit teilzunehmen.
 
 Das adaptierte Programm lautet nun wie folgt:
 
@@ -13,9 +13,9 @@ Das adaptierte Programm lautet nun wie folgt:
 
 *14:30 Uhr*
 
-### Digitaler "Check-in" und Überblick: Skypetreffen der Sektionsgruppen
+### Digitaler „Check-in“ und Überblick: Skypetreffen der Sektionsgruppen
 
-* Einrichtung der Skypegruppen durch die Sektionsleiter*innen 
+* Einrichtung der Skypegruppen durch die Sektionsleiter*innen
 * Überblick: Stand Handbuch, Stand Sektionen
 * Überblick: von Autor*innen kommunizierte Anregungen und Herausforderungen
 * Finden der Tandempartner (Autor*innen von 2 Beiträgen der Sektion, die gemeinsam an ihren Schreibproben arbeiten)
@@ -32,7 +32,7 @@ Das adaptierte Programm lautet nun wie folgt:
 
 *9:00 Uhr*
 
-### Tandemarbeit an den Schreibproben: 2-er-Skypeteams**
+### Tandemarbeit an den Schreibproben: 2-er-Skypeteams
 
 * Detaillierte Besprechung von beiden Handbuchbeiträgen und Research Puzzles
 * Festhalten von offenen Fragen, Desiderate für Gesamtband
@@ -41,7 +41,7 @@ Das adaptierte Programm lautet nun wie folgt:
 
 ### Zusammenfassung, weiteres Vorgehen und „Check-Out“: Skypetreffen der Sektionsgruppen
 
-* Einrichtung der Skypegruppen durch die Sektionsleiter 
+* Einrichtung der Skypegruppen durch die Sektionsleiter
 * Rückmeldungen aus den Tandemgruppen und Desiderate für den Gesamtband
 * Weiterer Zeitplan, Planung des weiteren internen Reviewprozesses
 * Informationen zu nächsten Netzwerktreffen
@@ -72,4 +72,3 @@ Wir bedauern sehr, dass es so weit gekommen ist und hoffen nun mit Euch gemeinsa
 ## Organisation und Kontakt:
 
 Christoph Schimmel (Christoph.Schimmel@uibk.ac.at) & Tabea Bork-Hüffer (tabea.bork-hueffer@uibk.ac.at), beide Institut für Geographie, Universität Innsbruck
-
