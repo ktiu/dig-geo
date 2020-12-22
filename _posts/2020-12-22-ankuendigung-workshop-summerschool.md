@@ -27,4 +27,4 @@ Vorbereitung der Sommerschule Herbst 2021 in Erlangen (bzw. online)
 - Bericht Vorbereitungsgruppe zur geplanten Struktur
 - Detailplanung mit einzelnen Referent*innen
 
-Bitte um Anmeldung **bis 20. Januar** per Mail an [Finn Dammann](mailto:finn.dammann@fau.de)
+Wir bitten um eine kurze informelle Anmeldung zu dem Workshop **bis 20. Januar** per Mail an [Finn Dammann](mailto:finn.dammann@fau.de).
