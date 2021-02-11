@@ -87,6 +87,9 @@ Institut für Geographie, Universität Passau
 [Prof. Dr. Christoph Schlieder](https://www.uni-bamberg.de/kinf/mitarbeiter/schlieder-christoph/)  
 Institut für Kulturinformatik, Universität Bamberg
 
+[Dr. Uwe Schulze](https://www.uni-frankfurt.de/46194385/Kurzportrait)  
+Institut für Humangeographie, Goethe Universität Frankfurt
+
 [PD Dr. Philipp Späth](https://www.envgov.uni-freiburg.de/de/prof-sugov/Team-SuGov/philipp-spaeth%20)  
 Institut für Umweltsozialwissenschaften und Geographie, Universität Freiburg
 
