@@ -2,13 +2,14 @@
 title: "Humangeographische Sommerschule 2021: Digitale Geographien"
 image: /bilder/sommerschule.png
 tags: Workshops Erlangen News
+excerpt: Die neuere Sozial- und Kulturgeographie fragt danach, wie gesellschaftliche Räume produziert und transformiert werden. Die Beziehungen zwischen Raumproduktionen und Digitalisierung werden in der humangeographischen Sommerschule 2021 anhand zweier Dimensionen ausgeleuchtet. „Digitale Raumproduktion“ fragt, wie mit der digitalen Transformation gesellschaftliche Räume zunehmend auch digital produziert werden.
 ---
 
 **26. September – 1. Oktober 2021, online aus Erlangen**
 
 ![](/bilder/sommerschule.png)
 
-Die neuere Sozial- und Kulturgeographie fragt danach, wie gesellschaftliche Räume produziert und transformiert werden. Die Beziehungen zwischen Raumproduktionen und Digitalisierung werden in der humangeographischen Sommerschule 2021 anhand zweier Dimensionen ausgeleuchtet. „Digitale Raumproduktion“ fragt, wie mit der digitalen Transformation gesellschaftliche Räume zunehmend auch digital produziert werden. Gleichzeit wird das Digitale in bestimmten Weisen räumlich gestaltet: „Raumproduktionen des Digitalen“.
+Die neuere Sozial- und Kulturgeographie fragt danach, wie gesellschaftliche Räume produziert und transformiert werden. Die Beziehungen zwischen Raumproduktionen und Digitalisierung werden in der humangeographischen Sommerschule 2021 anhand zweier Dimensionen ausgeleuchtet. „Digitale Raumproduktion“ fragt, wie mit der digitalen Transformation gesellschaftliche Räume zunehmend auch digital produziert werden. Gleichzeitig wird das Digitale in bestimmten Weisen räumlich gestaltet: „Raumproduktionen des Digitalen“.
 
 In fünf Tagen bietet die Sommerschule in sechs thematischen Modulen Einblicke in das dynamische Feld der Digitalen Geographien:
 
