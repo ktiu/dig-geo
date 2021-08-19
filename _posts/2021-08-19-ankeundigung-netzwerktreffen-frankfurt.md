@@ -1,5 +1,5 @@
 ---
-title: Ankündigung: Netzwerktreffen in Frankfurt
+title: "Ankündigung: Netzwerktreffen in Frankfurt"
 tags: News Workshops Frankfurt
 ---
 
