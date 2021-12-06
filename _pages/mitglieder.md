@@ -21,7 +21,7 @@ Universität Münster
 [Dr. Serafeim Alvanides](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/S.Alvanides)  
 GESIS Köln, [Northumbria University](https://www.northumbria.ac.uk/about-us/our-staff/a/seraphim-alvanides)
 
-[Dr. Helena Atteneder](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/philosophie-rhetorik-medien/institut-fuer-medienwissenschaft/institut/personen/atteneder-helena-dr/)
+[Dr. Helena Atteneder](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/philosophie-rhetorik-medien/institut-fuer-medienwissenschaft/institut/personen/atteneder-helena-dr/)  
 Univerität Tübingen
 
 [Dr. Michael Bauder](https://www.geographie.uni-freiburg.de/ikg/mitarb/bauder_m)  
@@ -80,9 +80,6 @@ Institut für Länderkunde Leipzig
 
 [Eva Isselstein](https://www.wigeo.uni-bayreuth.de/de/team/eva-isselstein/index.php)  
 Universität Bayreuth
-
-[Andreas Keler](https://www.vt.bgu.tum.de/mitarbeiter/mitarbeiter/keler-dr-rer-nat-andreas/)  
-Lehrstuhl für Verkehrstechnik, Ingenieurfakultät Bau Geo Umwelt, Technische Universität München
 
 [Dr. Dominik Kremer](https://www.geography.nat.fau.eu/person/dominik-kremer/)  
 Unversität Erlangen-Nürnberg
