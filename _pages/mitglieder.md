@@ -19,7 +19,7 @@ Universität Siegen
 Universität Münster
 
 [Dr. Serafeim Alvanides](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/S.Alvanides)  
-GESIS Köln, Northumbria University
+GESIS Köln, [Northumbria University](https://www.northumbria.ac.uk/about-us/our-staff/a/seraphim-alvanides)
 
 [Dr. Helena Atteneder](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/philosophie-rhetorik-medien/institut-fuer-medienwissenschaft/institut/personen/atteneder-helena-dr/)
 Univerität Tübingen

@@ -6,8 +6,9 @@ email: kontakt@digitale-geographien.de
 description: Ein deutschsprachiges Forschungsnetzwerk zu Geodaten, Code und Gesellschaft
 
 navbar-links:
-  Netzwerk: "netzwerk"
+  Über das Netzwerk: "netzwerk"
   Mitglieder: "mitglieder"
+  Handbuch: "handbuch"
 
 avatar: "/bilder/logo_big.png"
 
