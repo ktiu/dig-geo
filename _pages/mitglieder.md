@@ -46,7 +46,7 @@ Institut für Geographie, Ludwigs-Maximilian-Universität München
 Institut für Humangeographie, Universität Frankfurt am Main
 
 [Leonie Büttner](https://www.ufz.de/index.php?de=46763)  
-UFZ Leipzig
+Department Umweltpolitik, Helmholtz-Zentrum für Umweltforschung
 
 [Finn Dammann](http://www.geographie.nat.uni-erlangen.de/personen/finn-dammann/)  
 Institut für Geographie, Universität Erlangen-Nürnberg  
