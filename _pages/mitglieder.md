@@ -15,6 +15,15 @@ layout: page
 [Dr. Pablo Abend](http://www.locatingmedia.uni-siegen.de/pablo-abend/)    
 Universität Siegen
 
+[Dr. Azadeh Akbari Kharazi](https://www.uni-muenster.de/Geographie/mitarbeiter/akbari.shtml)  
+Universität Münster
+
+[Dr. Serafeim Alvanides](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/S.Alvanides)  
+GESIS Köln, Northumbria University
+
+[Dr. Helena Atteneder](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/philosophie-rhetorik-medien/institut-fuer-medienwissenschaft/institut/personen/atteneder-helena-dr/)
+Univerität Tübingen
+
 [Dr. Michael Bauder](https://www.geographie.uni-freiburg.de/ikg/mitarb/bauder_m)  
 Universität Freiburg
 
@@ -36,8 +45,17 @@ Institut für Geographie, Ludwigs-Maximilian-Universität München
 [Dr. Annika Busch-Geertsema](http://www.uni-frankfurt.de/45862962/Kurzportrait)  
 Institut für Humangeographie, Universität Frankfurt am Main
 
+[Leonie Büttner](https://www.ufz.de/index.php?de=46763)  
+UFZ Leipzig
+
 [Finn Dammann](http://www.geographie.nat.uni-erlangen.de/personen/finn-dammann/)  
 Institut für Geographie, Universität Erlangen-Nürnberg  
+
+[Christian Dorsch](https://www.uni-frankfurt.de/45862947)  
+Institut für Humangeographie, Goethe-Universität Frankfurt
+
+[Yannick Ecker](https://www.geo.uni-halle.de/digigeo/mitarbeitende/1251662_3369628/)  
+Universität Halle-Wittenberg
 
 [Christian Eichenmüller](http://www.geographie.nat.uni-erlangen.de/personen/christian-eichenmueller/)  
 Institut für Geographie, Universität Erlangen-Nürnberg
@@ -60,32 +78,41 @@ Institut für Geographie, Universität Erlangen-Nürnberg
 [Prof. Dr. Francis Harvey](https://www.ifl-leipzig.de/de/das-ifl/mitarbeiter/harvey-francis.html)  
 Institut für Länderkunde Leipzig
 
-[Tom Hoyer](https://www.ifl-leipzig.de/de/das-ifl/mitarbeiter/hoyer-tom.html)  
-Institut für Länderkunde Leipzig
+[Eva Isselstein](https://www.wigeo.uni-bayreuth.de/de/team/eva-isselstein/index.php)  
+Universität Bayreuth
 
 [Andreas Keler](https://www.vt.bgu.tum.de/mitarbeiter/mitarbeiter/keler-dr-rer-nat-andreas/)  
 Lehrstuhl für Verkehrstechnik, Ingenieurfakultät Bau Geo Umwelt, Technische Universität München
 
-Dr. Dominik Kremer  
-Bamberg
+[Dr. Dominik Kremer](https://www.geography.nat.fau.eu/person/dominik-kremer/)  
+Unversität Erlangen-Nürnberg
 
-Florian Ledermann   
-Wien
+[Florian Ledermann](https://cartography.tuwien.ac.at/florian-ledermann/)  
+TU Wien
 
 [Dr. Peter Mandl](http://wwwu.uni-klu.ac.at/pmandl/)  
 Institut für Geographie, Universität Klagenfurt
 
-Dr. Jana Moser  
+[Prof. Dr. Boris Michel](https://www.geo.uni-halle.de/digigeo/mitarbeitende/boris_michel/)  
+Universität Halle-Wittenberg
+
+[Dr. Jana Moser](https://leibniz-ifl.de/institut/personen/moser-jana)  
 Institut für Länderkunde Leipzig
 
-[Matthias Plennert](http://www.geographie.nat.uni-erlangen.de/personen/matthias-plennert/)  
-Institut für Geographie, Universität Erlangen-Nürnberg
+[Dr. Andrea Mösgen](https://www.uni-frankfurt.de/45863100/Dr__Andrea_M%C3%B6sgen___Kurzportr%C3%A4t)  
+Institut für Humangeographie, Goethe-Universität Frankfurt
+
+[Jana Pokraka](https://www.uni-due.de/geographie/sachunterricht/pokraka.php)  
+Universität Duisburg-Essen
+
+[Chistina Reithmeier](https://www.uni-frankfurt.de/68718510/Kurzportrait)  
+Institut für Humangeographie, Goethe-Universität Frankfurt
+
+[Prof. Dr. Lizzie Richardson](https://www.uni-frankfurt.de/93140598/Profile)
+Institut für Humangeographie, Goethe-Universität Frankfurt
 
 [Dr. Jörg Scheffer](http://www.phil.uni-passau.de/fachbereich-geographie/team/dr-joerg-scheffer/)  
 Institut für Geographie, Universität Passau
-
-[Prof. Dr. Christoph Schlieder](https://www.uni-bamberg.de/kinf/mitarbeiter/schlieder-christoph/)  
-Institut für Kulturinformatik, Universität Bamberg
 
 [Dr. Uwe Schulze](https://www.uni-frankfurt.de/46194385/Kurzportrait)  
 Institut für Humangeographie, Goethe Universität Frankfurt
@@ -101,3 +128,9 @@ Institut für Humangeographie, Universität Frankfurt am Main
 
 [Prof. Dr. Julia Verne](https://www.geographie.uni-bonn.de/das-institut/personal/wissenschaftliches-personal/verne-julia)  
 Institut für Geographie, Universität Bonn
+
+[Prof. Dr. Blake Walker](https://www.geography.nat.fau.eu/person/blake-walker/)  
+Universität Erlangen-Nürnberg
+
+[Dr. Thilo Wiertz](https://geographie.uni-freiburg.de/de/professuren/wirtschaftsgeographie-und-nachhaltige-entwicklung/team-und-kontakt/wiertz-thilo)  
+Universität Freiburg

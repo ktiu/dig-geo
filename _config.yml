@@ -8,7 +8,6 @@ description: Ein deutschsprachiges Forschungsnetzwerk zu Geodaten, Code und Gese
 navbar-links:
   Netzwerk: "netzwerk"
   Mitglieder: "mitglieder"
-  Publikationen: "publikationen"
 
 avatar: "/bilder/logo_big.png"
 
@@ -56,8 +55,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # all files
