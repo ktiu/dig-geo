@@ -17,7 +17,6 @@ _Accessibility Map_ für den Campus der McGill University, Montreal.
 
 Den Tag rundeten die Projektberichte von **Peter Mandl** (Bedeutung der Geographie in einem Prädigitalen Zeitalter) sowie von **Georg Glasze und Finn Damann** (_„Deutschland muss seine digitale Souveränität verteidigen“ – der Einzug territorial-geopolitischen Denkens in die Gestaltung der digitalen Transformation_) ab.
 
-
 Bei der Exkursion am zweiten Tag hatten wir Gelegenheit, uns mit dem Geodaten-Team des **Statistischen Bundesamts, Wiesbaden** über Erfolge und Fallstricke bei dem Einbezug digitaler Geodaten in die amtliche Statistik auszutauschen.
 
 Das produktive Treffen schloss mit weiteren Projektberichten (u.a. **Eva Isselstein** - _Care(Arbeit) im SmartHome_) und die Diskussion der Struktur eines geplanten Handbuchs.
