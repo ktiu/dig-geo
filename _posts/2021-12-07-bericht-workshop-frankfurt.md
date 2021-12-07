@@ -9,6 +9,7 @@ tags: Workshops Berichte Frankfurt
 Das Netzwerktreffen in Frankfurt Anfang Dezember war nach über zwei Jahren (seit [Kiel](/2019-10-03-bericht-treffen-kiel/)) unser erstes Treffen mit der Möglichkeit, in Präsenz teilzunehmen.
 Eine hybride Ausrichtung ermöglichte es einzelnen Teilnehmer\*innen aber auch, online am Treffen teilzunehmen und mitzudiskutieren.
 Weil unsere DFG-Förderung Ende des Jahres ausläuft, stellte das Treffen nicht nur den Abschluss eines Kapitels des Netzwerks dar, sondern stand auch ganz im Zeichen zukunftsgerichteter Entwürfe.
+Christian Dorsch, Eva Isselstein, Christina Reithmeier, Uwe Schulze und Till Straube haben das Treffen vorbereitet und organisatorisch durchgeführt.
 
 In einem ersten Block am Donnerstag stellten Christian Dorsch, Christoph Schimmel und Till Straube verschiedene Möglichkeiten vor, wie Texte aus dem [Handbuch Digitale Geographien](/handbuch) im Rahmen von „Green Open Access“ gemeinsam online gestellt werden können.
 
