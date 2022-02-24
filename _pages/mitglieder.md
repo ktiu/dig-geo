@@ -111,6 +111,9 @@ Institut für Humangeographie, Goethe-Universität Frankfurt
 [Dr. Jörg Scheffer](http://www.phil.uni-passau.de/fachbereich-geographie/team/dr-joerg-scheffer/)  
 Institut für Geographie, Universität Passau
 
+[Susanne Schröder-Bergen](https://www.geographie.nat.fau.de/person/susanne-schroeder-bergen/)  
+Institut für Geographie, Universität Erlangen-Nürnberg
+
 [Dr. Uwe Schulze](https://www.uni-frankfurt.de/46194385/Kurzportrait)  
 Institut für Humangeographie, Goethe Universität Frankfurt
 
