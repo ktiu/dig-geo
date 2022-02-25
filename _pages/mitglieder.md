@@ -105,7 +105,7 @@ Universität Duisburg-Essen
 [Chistina Reithmeier](https://www.uni-frankfurt.de/68718510/Kurzportrait)  
 Institut für Humangeographie, Goethe-Universität Frankfurt
 
-[Prof. Dr. Lizzie Richardson](https://www.uni-frankfurt.de/93140598/Profile)
+[Prof. Dr. Lizzie Richardson](https://www.uni-frankfurt.de/93140598/Profile)  
 Institut für Humangeographie, Goethe-Universität Frankfurt
 
 [Dr. Jörg Scheffer](http://www.phil.uni-passau.de/fachbereich-geographie/team/dr-joerg-scheffer/)  
