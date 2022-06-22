@@ -54,7 +54,7 @@ Institut für Geographie, Universität Erlangen-Nürnberg
 [Christian Dorsch](https://www.uni-frankfurt.de/45862947)  
 Institut für Humangeographie, Goethe-Universität Frankfurt
 
-[Yannick Ecker](https://www.geo.uni-halle.de/digigeo/mitarbeitende/1251662_3369628/)  
+[Yannick Ecker](https://blogs.urz.uni-halle.de/digigeo/mitarbeiterinnen/ecker/)  
 Universität Halle-Wittenberg
 
 [Christian Eichenmüller](http://www.geographie.nat.uni-erlangen.de/personen/christian-eichenmueller/)  
@@ -90,7 +90,7 @@ TU Wien
 [Dr. Peter Mandl](http://wwwu.uni-klu.ac.at/pmandl/)  
 Institut für Geographie, Universität Klagenfurt
 
-[Prof. Dr. Boris Michel](https://www.geo.uni-halle.de/digigeo/mitarbeitende/boris_michel/)  
+[Prof. Dr. Boris Michel](https://blogs.urz.uni-halle.de/digigeo/mitarbeiterinnen/michel/))  
 Universität Halle-Wittenberg
 
 [Dr. Jana Moser](https://leibniz-ifl.de/institut/personen/moser-jana)  
