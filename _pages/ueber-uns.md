@@ -25,7 +25,7 @@ Arbeiten aus den Digitalen Geographien betonen dabei, dass die digitale Transfor
 
 ## Vorgeschichte & DFG-Förderung
 
-Dem im November 2022 gegründeten Arbeitskreis ging das Netzwerk „Digitale Geographien“ voraus, das seit den 2010er Jahren regelmäßig in Workshops zusammenkam. Von 2018 bis 2022 wurde das Netzwerk als Wissenschaftsnetz von der Deutschen Forschungsgemeinschaft (DFG) gefördert und publizierte gemeinsam das Handbuch „Digitale Geographien“.
+Dem im November 2022 gegründeten Arbeitskreis ging das Netzwerk „Digitale Geographien“ voraus, das seit den 2010er Jahren regelmäßig in Workshops zusammenkam. [Von 2018 bis 2022]({{ site.baseurl }}{% link tags/#DFG-Netzwerk %}) wurde das Netzwerk als Wissenschaftsnetz von der Deutschen Forschungsgemeinschaft (DFG) gefördert und publizierte gemeinsam das Handbuch „Digitale Geographien“.
 
 ## Mitmachen & Ansprechpersonen
 
