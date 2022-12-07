@@ -1,6 +1,6 @@
 ---
 title: "Ankündigung: Netzwerktreffen in Frankfurt"
-tags: News Workshops Frankfurt
+tags: News Workshops Frankfurt DFG-Netzwerk
 ---
 
 Unser nächstes Netzwerktreffen -- das letzte im Rahmen  der [DFG-Netzwerkförderung](http://digitale-geographien.de/news/dfg-foerderung-und-ankuendigung)! -- findet **am 02. und 03. Dezember 2021** in Frankfurt am Main (Uni Campus Westend) statt.
