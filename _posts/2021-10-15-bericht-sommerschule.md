@@ -3,7 +3,7 @@ title: Bericht von der Humangeographischen Sommerschule „Digitale Geographien�
 zeit: 26. September bis 1. Oktober 2021
 ort: Institut für Geographie der FAU Erlangen-Nürnberg & Online
 image: /bilder/sommerschule.png
-tags: Berichte Sommerschule
+tags: Berichte Sommerschule DFG-Netzwerk
 ---
 
 Rückblick: Sommerschule „Digitale Geographien“ 2021 -- aus Erlangen
