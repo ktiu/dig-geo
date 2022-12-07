@@ -1,6 +1,6 @@
 ---
 title: Anmeldeschluss für das Treffen in Frankfurt
-tags: Workshops Frankfurt News
+tags: Workshops Frankfurt News DFG-Netzwerk
 ---
 
 Das nächste Treffen des Forschungsnetzwerks "Digitale Geographien" findet von 23. bis 24. Mai 2019 in Frankfurt am Main statt. 
