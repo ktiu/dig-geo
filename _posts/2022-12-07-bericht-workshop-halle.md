@@ -3,7 +3,7 @@ title: Bericht zur Tagung „Räume Digitaler Zukünfte“ / Gründung Arbeitskr
 zeit: 16.–18. November 2022
 ort: Universität Halle (Saale)
 image: /bilder/2022-11_halle-gruppe.jpg
-tags: Workshops Berichte Frankfurt Arbeitskreis
+tags: Workshops Berichte Halle Arbeitskreis
 ---
 
 Vom 16. bis 18. November 2022 bot die Tagung "Räume Digitaler Zukünfte" einen Rahmen für Interessierte der raumbezogenen Digitalisierungsforschung, um fachlich und organisatorisch gemeinsam weiterzudenken.
