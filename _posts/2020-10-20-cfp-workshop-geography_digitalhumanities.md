@@ -2,7 +2,7 @@
 title: "Call for Papers: Geography Meets Digital Humanities"
 zeit: 12./13. März 2021
 ort: Erlangen / online
-tags: Workshop
+tags: Workshop DFG-Netzwerk
 ---
 
 Im März findet in Erlangen ein Workshop statt, der eine interdisziplinäre Plattform für Forschende bietet, die an neueren raumbezogenen Modellierungen innerhalb der Digital Humanities und darüber hinaus interessiert sind. 
