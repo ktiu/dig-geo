@@ -9,7 +9,7 @@ permalink: ueber-uns
 
 ## Arbeitsfelder
 
-Die konzeptionellen und empirischen Arbeitsfelder umfassen Forschungen sowie Fragen der didaktischen Vermittlung zu:
+Die konzeptionellen und empirischen Arbeitsfelder der „Digitalen Geographie“ umfassen Forschungen sowie Fragen der didaktischen Vermittlung zu:
 
 ### 1) Veränderung von gesellschaftlichen Raumverhältnissen in der Digitalisierung
 
