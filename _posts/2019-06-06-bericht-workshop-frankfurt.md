@@ -3,7 +3,7 @@ title: Bericht vom Netzwerktreffen in Frankfurt
 zeit: 23.-24. Mai 2019
 ort: Institut für Humangeographie, Goethe-Universität Frankfurt am Main
 image: /bilder/2019-wiesbaden-weltzahlen.jpg
-tags: Workshops Berichte Frankfurt
+tags: Workshops Berichte Frankfurt DFG-Netzwerk
 ---
 
 Im Mai trafen sich die Teilnehmer\*innen des Forschungsnetzwerks „Digitale Geographien“ sowie Interessierte in Frankfurt am Main zum zweiten Netzwerktreffen im Rahmen der [DFG-Netzwerkförderung](http://digitale-geographien.de/news/dfg-foerderung-und-ankuendigung). 
