@@ -81,6 +81,9 @@ Institut für Länderkunde Leipzig
 [Eva Isselstein](https://www.wigeo.uni-bayreuth.de/de/team/eva-isselstein/index.php)  
 Universität Bayreuth
 
+[Dr. Malve Jacobsen](https://kulturgeographie-mainz.de/team/malve-jacobsen/)  
+Universität Mainz
+
 [Dr. Dominik Kremer](https://www.geography.nat.fau.eu/person/dominik-kremer/)  
 Unversität Erlangen-Nürnberg
 
@@ -90,7 +93,10 @@ TU Wien
 [Dr. Peter Mandl](http://wwwu.uni-klu.ac.at/pmandl/)  
 Institut für Geographie, Universität Klagenfurt
 
-[Prof. Dr. Boris Michel](https://blogs.urz.uni-halle.de/digigeo/mitarbeiterinnen/michel/))  
+[Astrid Matejcek](https://kulturgeographie-mainz.de/team/astrid-matejcek/)  
+Universität Mainz
+
+[Prof. Dr. Boris Michel](https://blogs.urz.uni-halle.de/digigeo/mitarbeiterinnen/michel/)  
 Universität Halle-Wittenberg
 
 [Dr. Jana Moser](https://leibniz-ifl.de/institut/personen/moser-jana)  
