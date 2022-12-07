@@ -1,6 +1,6 @@
 ---
 title: Vorankündigung Netzwerktreffen im Mai 2019
-tags: News Workshops Frankfurt
+tags: News Workshops Frankfurt DFG-Netzwerk
 ---
 
 Das nächste Treffen des Forschungsnetzwerks "Digitale Geographien" steht an: diesmal findet es 

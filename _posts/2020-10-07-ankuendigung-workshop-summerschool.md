@@ -2,7 +2,7 @@
 title: Ankündigung Workshop zur Konzeption Summerschool
 zeit: 29. Januar 2020
 ort: online
-tags: Workshop
+tags: Workshop DFG-Netzwerk
 ---
 
 Im Herbst 2021 wird in der Reihe der Humangeographischen Sommerschulen die Summerschool Digitale Geographien in Erlangen (bzw. online) stattfinden. 

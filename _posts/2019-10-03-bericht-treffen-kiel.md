@@ -3,7 +3,7 @@ title: Bericht vom Netzwerktreffen in Kiel
 zeit: 28. September 2019
 ort: Deutscher Kongress für Geographie, Christian-Albrechts-Universität zu Kiel
 image: /bilder/2019-kiel-gruppe.jpg
-tags: Workshops Berichte Kiel
+tags: Workshops Berichte Kiel DFG-Netzwerk
 ---
 
 Bei dem außerordentlichen Treffen am Rande des Kongress für Geographie in Kiel ging es zentral um das geplante Handbuch „Digitale Geographien. Welt, Wissen, Werkzeuge“. 

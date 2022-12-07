@@ -1,6 +1,6 @@
 ---
 title: Ankündigung für das Netzwerktreffen in Kiel
-tags: News DKG Kiel
+tags: News DKG Kiel DFG-Netzwerk
 ---
 
 Das nächste Treffen des Netzwerks Digitale Geographien findet im Kontext des Deutschen Kongress für Geographie in Kiel statt. 

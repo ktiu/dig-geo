@@ -1,7 +1,7 @@
 ---
 title: "Humangeographische Sommerschule 2021: Digitale Geographien"
 image: /bilder/sommerschule.png
-tags: Workshops Erlangen News
+tags: Workshops Erlangen News DFG-Netzwerk
 excerpt: Die neuere Sozial- und Kulturgeographie fragt danach, wie gesellschaftliche Räume produziert und transformiert werden. Die Beziehungen zwischen Raumproduktionen und Digitalisierung werden in der humangeographischen Sommerschule 2021 anhand zweier Dimensionen ausgeleuchtet. „Digitale Raumproduktion“ fragt, wie mit der digitalen Transformation gesellschaftliche Räume zunehmend auch digital produziert werden.
 ---
 

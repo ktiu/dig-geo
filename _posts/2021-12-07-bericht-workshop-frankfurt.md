@@ -3,7 +3,7 @@ title: Bericht vom Netzwerktreffen in Frankfurt
 zeit: 2.–3. Dezember 2021
 ort: Saalbau Gallus und Ökohaus, Frankfurt am Main
 image: /bilder/2021_ffm_gruppe.jpeg
-tags: Workshops Berichte Frankfurt
+tags: Workshops Berichte Frankfurt DFG-Netzwerk
 ---
 
 Das Netzwerktreffen in Frankfurt Anfang Dezember war nach über zwei Jahren (seit [Kiel](/2019-10-03-bericht-treffen-kiel/)) unser erstes Treffen mit der Möglichkeit, in Präsenz teilzunehmen.

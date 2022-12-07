@@ -2,7 +2,7 @@
 title: Ankündigung Workshop zur Konzeption Summerschool
 zeit: 29. Januar 2020
 ort: online
-tags: Workshop
+tags: Workshop DFG-Netzwerk
 excerpt: Herzliche Einladung zum 11. Treffen des Forschungsnetzwerks „Digitale Geographien“ am 29. Januar 2021. Das Treffen findet online statt. Der Zoom-Link wird Mitte Januar an die angemeldeten Teilnehmer*innen verschickt (Anmeldung bis 20. Januar per Mail an Finn Dammann).
 ---
 

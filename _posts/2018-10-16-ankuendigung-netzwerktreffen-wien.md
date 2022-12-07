@@ -1,6 +1,6 @@
 ---
 title: Unser nächstes Treffen in Wien
-tags: News Workshops Wien
+tags: News Workshops Wien DFG-Netzwerk
 ---
 
 Unser nächstes Netzwerktreffen – das erste seit dem Anlaufen der

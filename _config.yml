@@ -1,14 +1,15 @@
 url: http://digitale-geographien.de
 baseurl: ""
-title: Digitale Geographien
+title: Arbeitskreis Digitale Geographien
 email: kontakt@digitale-geographien.de
 
-description: Ein deutschsprachiges Forschungsnetzwerk zu Geodaten, Code und Gesellschaft
+description: Arbeitskreis zu Fragen an der Schnittstelle von Digitalisierung, Gesellschaft und Raum
 
 navbar-links:
-  Über das Netzwerk: "netzwerk"
+  Über uns: "ueber-uns"
   Mitglieder: "mitglieder"
   Handbuch: "handbuch"
+  Kontakt: "kontakt"
 
 avatar: "/bilder/logo_big.png"
 
