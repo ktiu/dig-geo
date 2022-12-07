@@ -3,7 +3,7 @@ title: Ankündigung und vorläufiges Programm für das Netzwerktreffen in Innsbr
 zeit: 12.-13. März 2020
 ort: Institut für Geographie, Universität Innsbruck
 image: 
-tags: News Workshops Innsbruck 
+tags: News Workshops Innsbruck DFG-Netzwerk
 ---
 
 **Am 12. und 13. März 2020 wird das nächste Netzwerktreffen „Digitale Geographien“ in Innsbruck stattfinden.**
