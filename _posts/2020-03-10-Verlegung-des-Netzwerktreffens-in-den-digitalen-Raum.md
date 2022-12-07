@@ -1,7 +1,7 @@
 ---
 title: Verlegung des Netzwerktreffens in den digitalen Raum
 zeit: 12.-13. März 2020
-tags: News Workshops Innsbruck
+tags: News Workshops Innsbruck DFG-Netzwerk
 ---
 
 Leider führen jüngste COVID-19-Maßnahmen der Universität Innsbruck sowie starke Empfehlungen der zuständigen Ansprechpartner des Landes Tirol und der Arbeitsmedizin Innsbruck dazu, dass das Netzwerktreffen in Innsbruck nicht vor Ort stattfinden kann.
