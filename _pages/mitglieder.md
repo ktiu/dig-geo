@@ -123,6 +123,9 @@ Institut für Geographie, Universität Erlangen-Nürnberg
 [Dr. Uwe Schulze](https://www.uni-frankfurt.de/46194385/Kurzportrait)  
 Institut für Humangeographie, Goethe Universität Frankfurt
 
+[Prof. Dr. Karin Schwiter](https://www.geo.uzh.ch/en/department/Staff/karinschwiter)  
+Geographisches Institut, Universität Zürich
+
 [PD Dr. Philipp Späth](https://www.envgov.uni-freiburg.de/de/prof-sugov/Team-SuGov/philipp-spaeth%20)  
 Institut für Umweltsozialwissenschaften und Geographie, Universität Freiburg
 
