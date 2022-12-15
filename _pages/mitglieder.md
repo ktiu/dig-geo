@@ -108,6 +108,9 @@ Institut für Humangeographie, Goethe-Universität Frankfurt
 [Jana Pokraka](https://www.uni-due.de/geographie/sachunterricht/pokraka.php)  
 Universität Duisburg-Essen
 
+[Prof. Dr. Julian Reif](https://www.fh-westkueste.de/hochschulprofil/ansprechpartner/professoren/innen-wirtschaft/prof-dr-julian-reif/)  
+Fachhochschule Westküste
+
 [Chistina Reithmeier](https://www.uni-frankfurt.de/68718510/Kurzportrait)  
 Institut für Humangeographie, Goethe-Universität Frankfurt
 
