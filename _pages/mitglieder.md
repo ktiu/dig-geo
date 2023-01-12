@@ -30,6 +30,9 @@ Universität Freiburg
 [Lea Bauer](https://www.ifl-leipzig.de/de/das-ifl/mitarbeiter/bauer-lea.html)  
 Institut für Länderkunde Leipzig
 
+[Prof. Dr. Sybille Bauriedl](https://www.uni-flensburg.de/geographie/integrative-geographie/team/prof-dr-sybille-bauriedl/zur-person/)  
+Abteilung Geographie, Europa-Universität Flensburg
+
 [Dr. Christian Bittner](https://www.ulb.uni-bonn.de/de/die-ulb/organisation-ansprechpartner/ansprechpartner-von-a-z/bittner)  
 Referent Forschungsdaten, Universität Bonn
 
