@@ -39,11 +39,14 @@ Referent Forschungsdaten, Universität Bonn
 [Prof. Dr. Marc Boeckler](https://www.uni-frankfurt.de/45478395/01_portrait)  
 Institut für Humangeographie, Universität Frankfurt am Main
 
-[Dr. rer. nat. Tabea Bork-Hüffer](https://www.uibk.ac.at/geographie/personal/bork-hueffer/)  
+[Univ.-Prof. Dr. rer. nat. habil. Tabea Bork-Hüffer](https://www.uibk.ac.at/geographie/personal/bork-hueffer/)  
 Institut für Geographie, Universität Innsbruck  
 
 [Julian Bothe](http://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=326)  
 Institut für Geographie, Ludwigs-Maximilian-Universität München  
+
+[Dr. Verena Brinks](https://digitalekulturen.uni-mainz.de/team/verena-brinks/)   
+Universität Mainz
 
 [Dr. Annika Busch-Geertsema](http://www.uni-frankfurt.de/45862962/Kurzportrait)  
 Institut für Humangeographie, Universität Frankfurt am Main
@@ -114,7 +117,7 @@ Universität Duisburg-Essen
 [Prof. Dr. Julian Reif](https://www.fh-westkueste.de/hochschulprofil/ansprechpartner/professoren/innen-wirtschaft/prof-dr-julian-reif/)  
 Fachhochschule Westküste
 
-[Chistina Reithmeier](https://www.uni-frankfurt.de/68718510/Kurzportrait)  
+[Christina Reithmeier](https://www.uni-frankfurt.de/68718510/Kurzportrait)  
 Institut für Humangeographie, Goethe-Universität Frankfurt
 
 [Prof. Dr. Lizzie Richardson](https://www.uni-frankfurt.de/93140598/Profile)  
