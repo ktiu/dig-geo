@@ -39,11 +39,14 @@ Referent Forschungsdaten, Universität Bonn
 [Prof. Dr. Marc Boeckler](https://www.uni-frankfurt.de/45478395/01_portrait)  
 Institut für Humangeographie, Universität Frankfurt am Main
 
-[Dr. rer. nat. Tabea Bork-Hüffer](https://www.uibk.ac.at/geographie/personal/bork-hueffer/)  
+[Univ.-Prof. Dr. rer. nat. habil. Tabea Bork-Hüffer](https://www.uibk.ac.at/geographie/personal/bork-hueffer/)  
 Institut für Geographie, Universität Innsbruck  
 
 [Julian Bothe](http://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=326)  
 Institut für Geographie, Ludwigs-Maximilian-Universität München  
+
+[Dr. Verena Brinks](https://digitalekulturen.uni-mainz.de/team/verena-brinks/)   
+Institut für Geographie, Universität Mainz
 
 [Dr. Annika Busch-Geertsema](http://www.uni-frankfurt.de/45862962/Kurzportrait)  
 Institut für Humangeographie, Universität Frankfurt am Main
@@ -85,7 +88,7 @@ Institut für Länderkunde Leipzig
 Universität Bayreuth
 
 [Dr. Malve Jacobsen](https://kulturgeographie-mainz.de/team/malve-jacobsen/)  
-Universität Mainz
+Institut für Geographie, Universität Mainz
 
 [Dr. Dominik Kremer](https://www.geography.nat.fau.eu/person/dominik-kremer/)  
 Unversität Erlangen-Nürnberg
@@ -97,7 +100,7 @@ TU Wien
 Institut für Geographie, Universität Klagenfurt
 
 [Astrid Matejcek](https://kulturgeographie-mainz.de/team/astrid-matejcek/)  
-Universität Mainz
+Institut für Geographie, Universität Mainz
 
 [Prof. Dr. Boris Michel](https://blogs.urz.uni-halle.de/digigeo/mitarbeiterinnen/michel/)  
 Universität Halle-Wittenberg
@@ -114,7 +117,7 @@ Universität Duisburg-Essen
 [Prof. Dr. Julian Reif](https://www.fh-westkueste.de/hochschulprofil/ansprechpartner/professoren/innen-wirtschaft/prof-dr-julian-reif/)  
 Fachhochschule Westküste
 
-[Chistina Reithmeier](https://www.uni-frankfurt.de/68718510/Kurzportrait)  
+[Christina Reithmeier](https://www.uni-frankfurt.de/68718510/Kurzportrait)  
 Institut für Humangeographie, Goethe-Universität Frankfurt
 
 [Prof. Dr. Lizzie Richardson](https://www.uni-frankfurt.de/93140598/Profile)  
@@ -141,8 +144,8 @@ Institut für Geographie, Universität zu Köln
 [Till Straube](http://user.uni-frankfurt.de/~tstraube)  
 Institut für Humangeographie, Universität Frankfurt am Main
 
-[Prof. Dr. Julia Verne](https://www.geographie.uni-bonn.de/das-institut/personal/wissenschaftliches-personal/verne-julia)  
-Institut für Geographie, Universität Bonn
+[Prof. Dr. Julia Verne](https://kulturgeographie-mainz.de/team/prof-dr-julia-verne/)  
+Institut für Geographie, Universität Mainz
 
 [Prof. Dr. Blake Walker](https://www.geography.nat.fau.eu/person/blake-walker/)  
 Universität Erlangen-Nürnberg
