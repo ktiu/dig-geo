@@ -46,7 +46,7 @@ Institut für Geographie, Universität Innsbruck
 Institut für Geographie, Ludwigs-Maximilian-Universität München  
 
 [Dr. Verena Brinks](https://digitalekulturen.uni-mainz.de/team/verena-brinks/)   
-Universität Mainz
+Institut für Geographie, Universität Mainz
 
 [Dr. Annika Busch-Geertsema](http://www.uni-frankfurt.de/45862962/Kurzportrait)  
 Institut für Humangeographie, Universität Frankfurt am Main
@@ -88,7 +88,7 @@ Institut für Länderkunde Leipzig
 Universität Bayreuth
 
 [Dr. Malve Jacobsen](https://kulturgeographie-mainz.de/team/malve-jacobsen/)  
-Universität Mainz
+Institut für Geographie, Universität Mainz
 
 [Dr. Dominik Kremer](https://www.geography.nat.fau.eu/person/dominik-kremer/)  
 Unversität Erlangen-Nürnberg
@@ -100,7 +100,7 @@ TU Wien
 Institut für Geographie, Universität Klagenfurt
 
 [Astrid Matejcek](https://kulturgeographie-mainz.de/team/astrid-matejcek/)  
-Universität Mainz
+Institut für Geographie, Universität Mainz
 
 [Prof. Dr. Boris Michel](https://blogs.urz.uni-halle.de/digigeo/mitarbeiterinnen/michel/)  
 Universität Halle-Wittenberg
@@ -144,8 +144,8 @@ Institut für Geographie, Universität zu Köln
 [Till Straube](http://user.uni-frankfurt.de/~tstraube)  
 Institut für Humangeographie, Universität Frankfurt am Main
 
-[Prof. Dr. Julia Verne](https://www.geographie.uni-bonn.de/das-institut/personal/wissenschaftliches-personal/verne-julia)  
-Institut für Geographie, Universität Bonn
+[Prof. Dr. Julia Verne](https://kulturgeographie-mainz.de/team/prof-dr-julia-verne/)  
+Institut für Geographie, Universität Mainz
 
 [Prof. Dr. Blake Walker](https://www.geography.nat.fau.eu/person/blake-walker/)  
 Universität Erlangen-Nürnberg
