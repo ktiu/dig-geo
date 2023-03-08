@@ -57,6 +57,9 @@ Department Umweltpolitik, Helmholtz-Zentrum für Umweltforschung
 [Finn Dammann](http://www.geographie.nat.uni-erlangen.de/personen/finn-dammann/)  
 Institut für Geographie, Universität Erlangen-Nürnberg  
 
+[Malin Delfs](https://www.geographie.uni-osnabrueck.de/personen/mitglieder_des_instituts/wiss_mitglieder/delfs.html)  
+Institut für Geographie, Universität Osnabrück
+
 [Christian Dorsch](https://www.uni-frankfurt.de/45862947)  
 Institut für Humangeographie, Goethe-Universität Frankfurt
 
