@@ -10,3 +10,5 @@ Bei unserer Workshop-Tagung diskutieren wir in unterschiedlichen Formaten (z.B. 
 
 Viele Grüße vom Orga-Team aus Mainz,  
 Astrid (Matejcek), Julia (Verne), Julian (Zschocke), Malve (Jacobsen) und Verena (Brinks)
+
+{% include image.html filename = '2023-11_Workshop_DgtlDsrptnn_Digital.png' description='Save-the-date Poster: Zwischen Glitches, Bugs, Features und Breakdowns' %}
