@@ -10,7 +10,7 @@ Liebe Kolleg:innen,
 
 gerne möchten wir hiermit auf den frisch eröffneten Call for Papers zur diesjährigen Tagung (mit Workshop-Charakter) des „AK Digitale Geographien“ hinweisen. Die Veranstaltung wird unter dem Titel „Digitale Disruptionen“ stattfinden. 
 
-Der [Call for Papers ist hier abrufbar](docs/CfP_2023-11_Digitale Disruptionen.pdf).
+Der [Call for Papers ist hier abrufbar](https://digitale-geographien.de/docs/CfP_2023-11_Digitale%20Disruptionen.pdf).
 
 Viele Grüße vom Organisationsteam
 
