@@ -12,10 +12,10 @@ layout: page
      ersten Zeile (also hinter dem Namen, bzw. hinter der geschlossenen Klammer
      vom Link) noch zwei Leerzeichen stehen.  -->
 
-[Prof. Dr. Pablo Abend](http://www.locatingmedia.uni-siegen.de/pablo-abend/](https://www.burg-halle.de/design/design-studies/design-studies/personen/p/pablo-abend/)    
+[Prof. Dr. Pablo Abend](https://www.burg-halle.de/design/design-studies/design-studies/personen/p/pablo-abend/)  
 Kunsthochschule Halle
 
-[Ass. Prof. zaDr. Azadeh Akbari Kharazi](https://www.uni-muenster.de/Geographie/mitarbeiter/akbari.shtml](https://www.utwente.nl/en/bms/pa/staff/akbari/)  
+[Ass. Prof. Dr. Azadeh Akbari Kharazi](https://www.utwente.nl/en/bms/pa/staff/akbari/)  
 Universität Twente/NL
 
 [Dr. Serafeim Alvanides](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/S.Alvanides)  
