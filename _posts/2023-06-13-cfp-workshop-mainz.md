@@ -1,5 +1,5 @@
 ---
-title: "CfP AK Digitale Geographien zum Thema \"Digitale Disruptionen\", 23.24. November in Mainz"
+title: "CfP AK Digitale Geographien zum Thema \"Digitale Disruptionen\", 23.-24. November in Mainz"
 tags: News Workshops Call Arbeitskreis Mainz
 image: /bilder/2023-11_Workshop_DgtlDsrptnn_Digital-thb.png
 ---
