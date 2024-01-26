@@ -2,7 +2,7 @@
 title: Bericht vom Workshop "Digitale Disruptionen"
 zeit: 23.-24. November 2023
 ort: Johannes-Gutenberg Universität Mainz
-image: /bilder/2023-11-mainz-workshop.jpg
+image: /bilder/23-11-mainz-workshop.jpg
 tags: Berichte Workshops Mainz News
 ---
 Vom 23. bis 24. November 2023 kamen für die Tagung „Digitale Disruptionen“ rund 
