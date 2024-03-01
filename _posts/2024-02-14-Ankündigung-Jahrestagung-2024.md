@@ -1,9 +1,10 @@
 ---
-title: Bericht vom Workshop „Praxis und Zukunft der digitalen Kartographie“
-zeit: 30. September-02. Oktober 2024
+title: Ankündigung der Jahrestagung „Geospatial Worlds: Geodaten, Code & Gesellschaft“
+zeit: 30. September - 02. Oktober 2024
 ort: FAU Erlangen-Nürnberg, Deutschland
 tags: Jahrestagung Ankündigung Erlangen Nürnberg 2024
 ---
+
 Mit großer Freude teilen wir Euch/Ihnen mit, dass die nächste Tagung des Arbeitskreises Digitale Geographien 
 Ende September/Anfang Oktober in Erlangen/Nürnberg stattfinden wird.  
 
