@@ -1,5 +1,5 @@
 ---
-title: Ankündigung der Jahrestagung „Geospatial Worlds: Geodaten, Code & Gesellschaft“
+title: "Ankündigung der Jahrestagung „Geospatial Worlds: Geodaten, Code & Gesellschaft“"
 zeit: 30. September - 02. Oktober 2024
 ort: FAU Erlangen-Nürnberg, Deutschland
 tags: Jahrestagung Ankündigung Erlangen Nürnberg 2024
