@@ -42,7 +42,12 @@ validation-report.json
 # Folders to ignore
 /node_modules
 /vendor/bundle
+/vendor/cache
 /.bundle
+
+# nix
+default.nix
+gemfile.nix
 
 # CNAME
 
