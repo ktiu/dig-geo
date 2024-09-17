@@ -1,7 +1,10 @@
-title: AK Digitale Geographien in Nürnberg: “Geospatial Worlds: Geodaten, Code & Gesellschaft”: Programm online!
+---
+title: "AK Digitale Geographien in Nürnberg: “Geospatial Worlds: Geodaten, Code & Gesellschaft”: Programm online!"
 zeit: 30. September - 02. Oktober 2024
 ort: Wirtschafts- und Sozialwissenschaftliche Fakultät, FAU Erlangen-Nürnberg, Deutschland
 tags: AK Tagung Nürnberg Erlangen
+image: bilder/Tagung-Digitale-Geographien-Nuernberg-2024.gif
+---
 
 Liebe Kolleg:innen, 
 
