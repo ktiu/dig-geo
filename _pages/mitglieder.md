@@ -39,6 +39,9 @@ Referent Forschungsdaten, Universität Bonn
 [Prof. Dr. Marc Boeckler](https://www.uni-frankfurt.de/45478395/01_portrait)  
 Institut für Humangeographie, Universität Frankfurt am Main
 
+[Hannah Boettcher](https://www.geographie.nat.fau.de/person/hannah-boettcher-2/)  
+Institut für Geographie, FAU Erlangen-Nürnberg
+
 [Univ.-Prof. Dr. rer. nat. habil. Tabea Bork-Hüffer](https://www.uibk.ac.at/geographie/personal/bork-hueffer/)  
 Institut für Geographie, Universität Innsbruck  
 
@@ -78,7 +81,7 @@ Pädagogische Hochschule Öberösterreich, Linz
 [PD Dr. Henning Füller](https://www.geographie.hu-berlin.de/de/Members/fueller_henning)  
 Geographisches Institut, Humboldt-Universität zu Berlin
 
-[Jan Gemeinholzer](https://www.researchgate.net/profile/Jan_Gemeinholzer)  
+[Jan Gemeinholzer](https://www.geographie.nat.fau.de/person/jan-gemeinholzer/)  
 Institut für Geographie, Universität Erlangen-Nürnberg
 
 [Prof. Dr. Georg Glasze](http://www.geographie.nat.uni-erlangen.de/personen/georg-glasze/)  
@@ -99,6 +102,9 @@ Digital Humanities & Social Studies, FAU Erlangen-Nürnberg
 [Florian Ledermann](https://cartography.tuwien.ac.at/florian-ledermann/)  
 TU Wien
 
+[Sophia Leipert](https://www.hcu-hamburg.de/bachelor/kultur-der-metropole/team/mitarbeiterinnen/sophia-leipert-msc)  
+HafenCity Universität Hamburg
+
 [Dr. Peter Mandl](http://wwwu.uni-klu.ac.at/pmandl/)  
 Institut für Geographie, Universität Klagenfurt
 
@@ -113,6 +119,9 @@ Institut für Länderkunde Leipzig
 
 [Dr. Andrea Mösgen](https://www.uni-frankfurt.de/45863100/Dr__Andrea_M%C3%B6sgen___Kurzportr%C3%A4t)  
 Institut für Humangeographie, Goethe-Universität Frankfurt
+
+[Max Münßinger](https://www.geographie.nat.fau.de/person/max-muenssinger/)  
+Institut für Geographie, FAU Erlangen-Nürnberg
 
 [Jana Pokraka](https://www.uni-due.de/geographie/sachunterricht/pokraka.php)  
 Universität Duisburg-Essen
