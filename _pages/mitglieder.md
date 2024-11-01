@@ -99,6 +99,9 @@ Institut für Geographie, Universität Mainz
 [Dr. Dominik Kremer](https://www.geography.nat.fau.eu/person/dominik-kremer/)  
 Digital Humanities & Social Studies, FAU Erlangen-Nürnberg
 
+[Robert Lämmchen](https://www.uni-frankfurt.de/141181970/Robert_L%C3%A4mmchen)  
+Institut für Humangeographie, Goethe Universität Frankfurt
+
 [Florian Ledermann](https://cartography.tuwien.ac.at/florian-ledermann/)  
 TU Wien
 
