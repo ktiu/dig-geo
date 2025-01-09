@@ -48,14 +48,14 @@ Institut für Geographie, Universität Innsbruck
 [Julian Bothe](http://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=326)  
 Institut für Geographie, Ludwigs-Maximilian-Universität München  
 
+[Leonie Büttner](https://www.ufz.de/index.php?de=46763)  
+Department Umweltpolitik, Helmholtz-Zentrum für Umweltforschung
+
 [Jun.-Prof. Dr. Verena Brinks](https://digitalekulturen.uni-mainz.de/team/verena-brinks/)   
 Institut für Geographie, Universität Mainz
 
 [Dr. Annika Busch-Geertsema](http://www.uni-frankfurt.de/45862962/Kurzportrait)  
 Institut für Humangeographie, Universität Frankfurt am Main
-
-[Leonie Büttner](https://www.ufz.de/index.php?de=46763)  
-Department Umweltpolitik, Helmholtz-Zentrum für Umweltforschung
 
 [Dr. Finn Dammann](http://www.geographie.nat.uni-erlangen.de/personen/finn-dammann/)  
 Institut für Geographie, FAU Erlangen-Nürnberg  
@@ -87,6 +87,9 @@ Institut für Geographie, Universität Erlangen-Nürnberg
 [Prof. Dr. Georg Glasze](http://www.geographie.nat.uni-erlangen.de/personen/georg-glasze/)  
 Institut für Geographie, FAU Erlangen-Nürnberg
 
+[Alina Gombert](https://fixingfutures.eu/members/alina-gombert/)  
+Institut für Humangeographie, Goethe-Universität Frankfurt
+
 [Prof. Dr. Francis Harvey](https://www.ifl-leipzig.de/de/das-ifl/mitarbeiter/harvey-francis.html)  
 Institut für Länderkunde Leipzig
 
@@ -100,7 +103,7 @@ Institut für Geographie, Universität Mainz
 Digital Humanities & Social Studies, FAU Erlangen-Nürnberg
 
 [Robert Lämmchen](https://www.uni-frankfurt.de/141181970/Robert_L%C3%A4mmchen)  
-Institut für Humangeographie, Goethe Universität Frankfurt
+Institut für Humangeographie, Goethe-Universität Frankfurt
 
 [Florian Ledermann](https://cartography.tuwien.ac.at/florian-ledermann/)  
 TU Wien
@@ -147,6 +150,9 @@ Institut für Geographie, Universität Erlangen-Nürnberg
 [Dr. Uwe Schulze](https://www.uni-frankfurt.de/46194385/Kurzportrait)  
 Institut für Humangeographie, Goethe Universität Frankfurt
 
+[Prof. Dr. Carolin Schurr](https://www.geography.unibe.ch/ueber_uns/personen/prof_dr_schurr_carolin/index_ger.html)  
+Geographisches Institut, Universität Bern
+
 [Prof. Dr. Karin Schwiter](https://www.geo.uzh.ch/en/department/Staff/karinschwiter)  
 Geographisches Institut, Universität Zürich
 
@@ -164,6 +170,9 @@ Institut für Geographie, Universität Mainz
 
 [Prof. Dr. Blake Walker](https://www.geography.nat.fau.eu/person/blake-walker/)  
 Universität Erlangen-Nürnberg
+
+[Anna Verwey](https://www.uni-frankfurt.de/161751389/Anna_Verwey)  
+Institut für Humangeographie, Goethe-Universität Frankfurt
 
 [Dr. Thilo Wiertz](https://geographie.uni-freiburg.de/de/professuren/wirtschaftsgeographie-und-nachhaltige-entwicklung/team-und-kontakt/wiertz-thilo)  
 Universität Freiburg
