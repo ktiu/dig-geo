@@ -73,7 +73,7 @@ Please note:
   </div>
 
   <div class="item">
-    <label for="email">Are you planning to make use of our childcare services?</label>
+    <label for="email">Are you planning to make use of our childcare services? (Please let us know until x.x.x)</label>
     <br />
     <div class="bool">
       <div><input type="radio" name="german" value="yes" /> Yes</div>
