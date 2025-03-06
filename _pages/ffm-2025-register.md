@@ -9,13 +9,11 @@ permalink: ffm-2025-register
   November 6–7, 2025
 </h2>
 
-[Back to annual meeting homepage](/ffm-2025)
-
 Please note:
 
 - Registration is open until the meeting.
 - There is no fee for participating or presenting.
-- If you want to present at the meeting, please see the information at the end of our [call for papers](/ffm-2025-cfp).
+- If you want to present at the meeting, please see the information at the end of our [call for papers](/2025-03-06-cfp-frankfurt).
 - You will not be able to edit submitted information. Please e-mail us at <ffm-2025@digitale-geographien.de> for urgent changes.
 
 <style>
@@ -42,6 +40,9 @@ Please note:
   }
   .help {
     font-size: 0.8em;
+  }
+  .nobold {
+    font-weight: normal;
   }
 </style>
 
@@ -77,8 +78,8 @@ Please note:
     <label for="email">Are you comfortable following presentations and discussions in German?</label>
     <br />
     <div class="bool">
-      <div><input type="radio" name="german" value="yes" required /> Yes</div>
-      <div><input type="radio" name="german" value="no" /> No</div>
+      <label class="nobold"><input type="radio" name="german" value="yes" required /> Yes</label>
+      <label class="nobold"><input type="radio" name="german" value="no" /> No</label>
     </div>
     <div class="help">
       This will help us plan around language barriers when putting together the program.
@@ -89,8 +90,8 @@ Please note:
     <label for="email">Are you interested in using our childcare services?<br />(Please let us know until August 31, 2025)</label>
     <br />
     <div class="bool">
-      <div><input type="radio" name="childcare" value="yes" required /> Yes</div>
-      <div><input type="radio" name="childcare" value="no" /> No</div>
+      <div><label class="nobold"><input type="radio" name="childcare" value="yes" required /> Yes</label></div>
+      <div><label class="nobold"><input type="radio" name="childcare" value="no" /> No</label></div>
     </div>
     <div class="help">
       During the annual meeting (excluding evening activities), we are planning to organize childcare free of charge. If you answer "yes", we will get in touch with you for more details.
