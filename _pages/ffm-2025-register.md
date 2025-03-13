@@ -110,7 +110,7 @@ Please note:
   <div class="item">
     <label for="email">Dietary restrictions (optional)</label>
     <br />
-    <input type="text" name="email" placeholder="e.g. vegan, halal, peanut allergy, ..." maxlength="1024" />
+    <input type="text" name="dietary" placeholder="e.g. vegan, halal, peanut allergy, ..." maxlength="1024" />
     <div class="help">
       This will help us make better choices for restaurants and catering.
     </div>
