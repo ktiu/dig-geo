@@ -144,6 +144,9 @@ Institut für Humangeographie, Goethe-Universität Frankfurt
 [Dr. Jörg Scheffer](http://www.phil.uni-passau.de/fachbereich-geographie/team/dr-joerg-scheffer/)  
 Institut für Geographie, Universität Passau
 
+[Luca Scheunpflug](https://www.leuphana.de/institute/isko/personen/luca-scheunpflug.html)  
+Institut für Soziologie und Kulturorganisation, Leuphana Universität Lüneburg
+
 [Susanne Schröder-Bergen](https://www.geographie.nat.fau.de/person/susanne-schroeder-bergen/)  
 Institut für Geographie, Universität Erlangen-Nürnberg
 
