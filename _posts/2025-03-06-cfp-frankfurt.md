@@ -1,10 +1,10 @@
 ---
 title: "Call for Papers für das Jahrestreffen 2025"
 tags: Jahrestreffen Frankfurt AK Valuation
-excerpt: "Der Call for Papers für das Jahrestreffen unter dem Motto \"Digital geographies of valuation: platforms, technologies, narratives\" (7–8 November 2025 in Frankfurt am Main)"
+excerpt: "Der Call for Papers für das Jahrestreffen unter dem Motto \"Digital geographies of valuation: platforms, technologies, narratives\" (6.–7. November 2025 in Frankfurt am Main)"
 ---
 
-**6–7 November 2025 in Frankfurt am Main**
+**6.–7. November 2025 in Frankfurt am Main**
 
 ## Digital geographies of valuation: platforms, technologies, narratives
 
