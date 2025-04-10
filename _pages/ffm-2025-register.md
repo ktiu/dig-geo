@@ -11,7 +11,7 @@ permalink: ffm-2025-register
 
 Please note:
 
-- Registration is open until the meeting.
+- Registration is open until October 20, 2025.
 - There is no fee for participating or presenting.
 - If you want to present at the meeting, please see the information at the end of our [call for papers](/2025-03-06-cfp-frankfurt).
 - You will not be able to edit submitted information. Please e-mail us at <ffm-2025@digitale-geographien.de> for urgent changes.
