@@ -1,5 +1,5 @@
 ---
-title: "Anmeldung offen für das Jahrestreffen 2025"
+title: "Anmeldung für das Jahrestreffen 2025 ist geöffnet"
 tags: Jahrestreffen Frankfurt AK Valuation
 ---
 
