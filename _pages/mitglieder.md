@@ -141,6 +141,9 @@ Institut für Humangeographie, Goethe-Universität Frankfurt
 [Prof. Dr. Lizzie Richardson](https://www.uni-frankfurt.de/93140598/Profile)  
 Institut für Humangeographie, Goethe-Universität Frankfurt
 
+[Luca Scheunenpflug](https://www.leuphana.de/institute/isko/personen/luca-scheunpflug.html)  
+Institut für Soziologie und Kulturorganisation, Leuphana Universität Lüneburg
+
 [Dr. Jörg Scheffer](http://www.phil.uni-passau.de/fachbereich-geographie/team/dr-joerg-scheffer/)  
 Institut für Geographie, Universität Passau
 
