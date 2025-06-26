@@ -27,7 +27,7 @@ In this year’s annual meeting, we seek to unpack digital geographies through q
  
 The conference languages will be German and English, and contributions in both languages are welcome. In your submission, please indicate the language(s) in which you would feel comfortable giving your presentation.
  
-Please submit your abstract (max. 300 words) by 27 June 2025 to <ffm-2025@digitale-geographien.de>.
+Please submit your abstract (max. 300 words) by 18 July 2025 (extended deadline) to <ffm-2025@digitale-geographien.de>.
  
 Registrations will open in mid-March.
  
