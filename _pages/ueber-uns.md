@@ -35,5 +35,4 @@ Zur Vernetzung und für Ankündigungen zwischen den Treffen nutzen wir eine geme
 
 Wer bei uns mitmachen möchte, auf die Mailingliste oder Mitgliederliste gesetzt werden will oder Interesse an einer Kooperation hat, kann sich gerne [bei uns melden](mailto:{{site.email}}).
 
-Eure Ansprechpersonen für den Arbeitkreis sind derzeit (2023-12 bis 2024-12) Hannah Boettcher, Finn Dammann, Malve Jacobsen und Astrid Matejcek.
-
+Eure Ansprechpersonen für den Arbeitkreis sind derzeit (2024-12 bis 2025-12) Hannah Boettcher, Finn Dammann, Alina Gombert, Till Straube und Anna Verwey.
