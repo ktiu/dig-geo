@@ -147,6 +147,9 @@ Institut für Soziologie und Kulturorganisation, Leuphana Universität Lüneburg
 [Dr. Jörg Scheffer](http://www.phil.uni-passau.de/fachbereich-geographie/team/dr-joerg-scheffer/)  
 Institut für Geographie, Universität Passau
 
+[Julia Schinnenburg](https://www.geog.uni-heidelberg.de/de/personen-am-institut/julia-schinnenburg)  
+Geographisches Institut, Universität Heidelberg
+
 [Susanne Schröder-Bergen](https://www.geographie.nat.fau.de/person/susanne-schroeder-bergen/)  
 Institut für Geographie, Universität Erlangen-Nürnberg
 
