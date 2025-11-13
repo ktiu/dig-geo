@@ -141,6 +141,9 @@ Institut für Humangeographie, Goethe-Universität Frankfurt
 [Prof. Dr. Lizzie Richardson](https://www.uni-frankfurt.de/93140598/Profile)  
 Institut für Humangeographie, Goethe-Universität Frankfurt
 
+[Dr. Linda Ruppert](https://www.geog.uni-heidelberg.de/de/personen-am-institut/dr-linda-ruppert)  
+Geographisches Institut, Universität Heidelberg
+
 [Luca Scheunenpflug](https://www.leuphana.de/institute/isko/personen/luca-scheunpflug.html)  
 Institut für Soziologie und Kulturorganisation, Leuphana Universität Lüneburg
 
