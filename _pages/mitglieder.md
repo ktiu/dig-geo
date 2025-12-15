@@ -36,6 +36,9 @@ Abteilung Geographie, Europa-Universität Flensburg
 [Dr. Christian Bittner](https://www.ulb.uni-bonn.de/de/die-ulb/organisation-ansprechpartner/ansprechpartner-von-a-z/bittner)  
 Referent Forschungsdaten, Universität Bonn
 
+[Dr. Jonas Birke](https://www.geographie.uni-bonn.de/de/das-institut/webseiten-mitarbeiter-innen/jonas-birke)  
+Geographisches Institut, Univerität Bonn
+
 [Prof. Dr. Marc Boeckler](https://www.uni-frankfurt.de/45478395/01_portrait)  
 Institut für Humangeographie, Universität Frankfurt am Main
 
