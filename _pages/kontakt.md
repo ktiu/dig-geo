@@ -8,7 +8,7 @@ show_in_sidebar: true
 
 Wer bei uns mitmachen möchte, mehr über uns erfahren möchte oder Interesse an einer Kooperation hat, kann sich gerne [bei uns melden](mailto:{{site.email}}).
 
-Eure Ansprechpersonen für den Arbeitkreis sind derzeit (2024-12 bis 2025-12) Hannah Boettcher, Finn Dammann, Alina Gombert, Till Straube und Anna Verwey.
+Eure Ansprechpersonen für den Arbeitkreis sind derzeit (2026-01 bis 2026-12) **Alina Gombert, Johannes Melchert, Julia Poerting, Julia Schinnenburg, Till Straube und Anna Verwey.**
 
 <!---
 Unter folgendem Link ist auch das Abbonieren unserer Mailingliste möglich:
