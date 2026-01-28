@@ -42,6 +42,7 @@ Eure Ansprechpersonen für den Arbeitkreis sind derzeit (2026-01 bis 2026-12):
 - Alina Gombert
 - Johannes Melchert
 - Julia Poerting
+- Linda Ruppert
 - Julia Schinnenburg
 - Till Straube
 - Anna Verwey
