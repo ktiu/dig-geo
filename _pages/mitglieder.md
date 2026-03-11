@@ -18,7 +18,7 @@ Kunsthochschule Halle
 [Ass. Prof. Dr. Azadeh Akbari Kharazi](https://www.utwente.nl/en/bms/pa/staff/akbari/)  
 Universität Twente/NL
 
-[Dr. Serafeim Alvanides](https://ram.raumplanung.tu-dortmund.de/team/dr-seraphim-alvanides)  
+[Dr. Seraphim (Serafeim) Alvanides](https://ram.raumplanung.tu-dortmund.de/team/dr-seraphim-alvanides)  
 Fakultät Raumplanung, TU Dortmund
 
 [Dr. Helena Atteneder](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/philosophie-rhetorik-medien/institut-fuer-medienwissenschaft/institut/personen/atteneder-helena-dr/)  
