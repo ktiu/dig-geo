@@ -1,7 +1,8 @@
 ---
 title: "Call for Papers für das Jahrestreffen 2026"
 tags: Jahrestreffen Heidelberg AK infrastructures embodiment
-excerpt: "Der Call for Papers für das Jahrestreffen unter dem Motto \"Embodiment and Infrastructures: Power and violence through digital technologies\" (8.–9. Oktober 2026 in Frankfurt am Main)"
+zeit: 8.--9. Oktober 2026
+excerpt: "Der Call for Papers für das Jahrestreffen unter dem Motto \"Embodiment and Infrastructures: Power and violence through digital technologies\" (8.–9. Oktober 2026 in Heidelberg)"
 ---
 
 We are pleased to invite submissions for the next annual meeting of the AK Digitale Geographien! This year taking place from the 8-9th of October at the Mathematikon in Heidelberg. While we keep this forum open for any engagements with the whole breadth of digital geographies, we encourage submissions that address questions of embodiment and infrastructure.

@@ -1,7 +1,7 @@
 ---
 title: "Save the date: Jahrestreffen 2025 in Frankfurt am Main"
 tags: AK Jahrestreffen Frankfurt
-zeit: 6.–7. November 2025
+zeit: 6.–7. Oktober 2026
 ---
 
 Für das Jahrestreffen des AK Digitale Geographien 2025 laden wir nach Frankfurt an den Campus Westend der Goethe-Universität ein.
