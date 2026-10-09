@@ -111,8 +111,8 @@ Institut für Humangeographie, Goethe-Universität Frankfurt
 [Florian Ledermann](https://cartography.tuwien.ac.at/florian-ledermann/)  
 TU Wien
 
-[Sophia Leipert](https://www.hcu-hamburg.de/bachelor/kultur-der-metropole/team/mitarbeiterinnen/sophia-leipert-msc)  
-HafenCity Universität Hamburg
+[Sophia Leipert](https://www.uni-frankfurt.de/de/fachbereich-11/institute/humangeographie/personen/leipert-sophia)  
+Goethe-Universität Frankfurt
 
 [Dr. Peter Mandl](http://wwwu.uni-klu.ac.at/pmandl/)  
 Institut für Geographie, Universität Klagenfurt
